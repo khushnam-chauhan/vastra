@@ -1,5 +1,6 @@
 .item{
     width: 349px;
+    background-color: black;
 }
 .item p{
     margin: 6px 0px;
@@ -9,16 +10,17 @@
 .item-prices{
     display: flex;
     gap: 16px;
+    color: white;
 }
 
 .item-price-new{
-    color: #374151;
+    color: white;
     font-size: 18px;
     font-weight: 600;
 }
 
 .item-price-old{
-    color: #8c8c8c;
+    color: white;
     font-size: 18px;
     font-weight: 500;
     text-decoration: line-through;

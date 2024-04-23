@@ -6,17 +6,17 @@
     justify-content: center;
     margin: auto;
     padding: 0px 140px;
-    margin-bottom: 150px;
-    background: linear-gradient(180deg,#fde1ff 0%, #e1ffea22 60%);
+    margin-bottom: 10px;
+    background: linear-gradient(180deg,#fde1ff 0%, black 60%);
     gap: 30px;
 }
 .newsletter h1{
-    color: #454545;
+    color: white;
     font-size: 30px;
     font-weight: 600;
 }
 .newsletter p{
-    color: #454545;
+    color:white;
     font-size: 15px;
 
 }
@@ -36,7 +36,7 @@
     margin-left: 30px;
     border: none;
     outline: none;
-    color: #616161;
+    color:white;
     font-family: poppins;
     font-size: 16px;
 

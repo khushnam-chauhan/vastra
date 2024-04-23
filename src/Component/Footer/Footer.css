@@ -4,6 +4,7 @@
     justify-content: center;
     align-items: center;
     gap: 40px;
+    background-color: black;
 }
 .footer-logo{
     display: flex;
@@ -12,7 +13,7 @@
 
 }
 .footer-logo p{
-    color: #383838;
+    color: white;
     font-size: 46px;
     font-weight: 700;
 }
@@ -21,7 +22,7 @@
     display: flex;
     list-style: none;
     gap: 40px;
-    color: #252525;
+    color: white;
     font-size: 20px;
 }
 .footer-links li{
@@ -46,7 +47,7 @@
     gap: 30px;
     width: 100%;
     margin-bottom: 30px;
-    color: #1a1a1a;
+    color: white;
     font-size: 20px;
 }
 
